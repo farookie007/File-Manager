@@ -10,7 +10,7 @@ It also has a `keep` parameter which takes in a boolean value and is set to `Tru
 the path specified as destination. It also has a `new_folder` parameter which accepts a boolean and is set to `True` which means to open a new folder
 to put the file at the destination. This is useful in sorting movies by creating a new folder for each movie where the subtitle file is also placed to make it easily tracked
 
-- `get_files' function: This function takes 2 arguments which are `dir_path` (i.e a path) and a `file_type` (i.e type of file e.g `videos`, `musics' e.t.c) and it
+- `get_files` function: This function takes 2 arguments which are `dir_path` (i.e a path) and a `file_type` (i.e type of file e.g `videos`, `musics` e.t.c) and it
 returns a list of files having that `file_type`.
 
 There are other functions like `sort_movies`, `download_subtitle`, `sort_dir` and more.
