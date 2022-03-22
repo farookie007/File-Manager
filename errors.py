@@ -1,0 +1,2 @@
+class NoInternetConnectionError(Exception):
+    pass
